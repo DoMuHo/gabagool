@@ -6,5 +6,7 @@ The location for this folder is listed below.
 
 
 Windows:\Documents\Paradox Interactive\Crusader Kings II\mod\
+
 Linux:/.paradoxinteractive/Crusader Kings II/mod/
+
 Mac:/Documents/Paradox Interactive/Crusader Kings II/mod/
